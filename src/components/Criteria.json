@@ -1,0 +1,17 @@
+[
+  {
+    "type":"Strong",
+    "criteria": "Minimum Of 2 Uppercase , Lowercase And Special Characters And 8 Characters Or More",
+    "color":"lightgreen"
+  },
+  {
+    "type":"Good",
+    "criteria": "Minimum Of 1 Uppercase , Lowercase And Special Characters And 6 Characters Or More",
+    "color":"orange"
+  },
+  {
+    "type":"Weak",
+    "criteria": "None Of The Above Cases",
+    "color":"red"
+  }
+]
