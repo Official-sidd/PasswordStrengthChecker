@@ -1,3 +1,6 @@
+![Screenshot 2023-08-08 174523](https://github.com/Official-sidd/PasswordStrengthChecker/assets/112920959/fe001205-8369-4907-bc20-86cbd4f684a0)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
